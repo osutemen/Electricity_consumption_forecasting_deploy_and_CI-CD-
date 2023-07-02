@@ -1,0 +1,14 @@
+fastapi[all]==0.83.0
+uvicorn[standard]== 0.13.4
+sqlmodel==0.0.8
+pandas<=1.4.1
+scikit-learn<=1.0.2
+joblib<=1.2.0
+pymysql==1.0.2
+python-dotenv<=0.21.0
+statsmodels
+xgboost==1.5.2
+gunicorn==20.1.0
+mlflow
+pytest<=7.0.1
+scipy
